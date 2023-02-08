@@ -1,6 +1,6 @@
-# freeCodeCamp - JavaScript Programming (Full Course)
+# freeCodeCamp - BlackJack Game
 
-Vidéo (parti 2) [freeCodeCamp](https://youtu.be/jS4aFq5-91M) utilisé pour réaliser cet exercice (BlackJackGame)
+Vidéo (parti 2) [freeCodeCamp - JavaScript Programming (Full Course)](https://youtu.be/jS4aFq5-91M) utilisé pour réaliser cet exercice (BlackJackGame)
 
 ## Fonctionnalités
 
