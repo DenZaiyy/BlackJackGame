@@ -11,7 +11,11 @@ Vidéo (parti 2) [freeCodeCamp](https://youtu.be/jS4aFq5-91M) utilisé pour réa
 
 ## Rendu
 
-- Page au démarrage ![Page au démarrage](images/home.PNG)
-- Lancement d'une partie ![Lancement d'une partie](images/start.PNG)
-- Ajout d'une nouvelle carte pour tenter le blackjack (21) ![Ajout d'une nouvelle carte pour tenter le blackjack (21)](images/new_card.PNG)
-- Ajouts des nouvelles cartes nécessaire pour savoir si on gagne ou non (pour cet exemple j'ai perdu car je suis au dessus de 21) ![ajout de nouvelles cartes jusqu'au résultat](images/new_card_loose.PNG)
+### Page de démarrage
+![Page au démarrage](images/home.PNG)
+### Lancement d'une partie
+![Lancement d'une partie](images/start.PNG)
+### Ajout d'une nouvelle carte pour tenter le blackjack (21)
+![Ajout d'une nouvelle carte pour tenter le blackjack (21)](images/new_card.PNG)
+### Ajouts des nouvelles cartes nécessaire pour savoir si on gagne ou non (pour cet exemple j'ai perdu car je suis au dessus de 21)
+![ajout de nouvelles cartes jusqu'au résultat](images/new_card_loose.PNG)
